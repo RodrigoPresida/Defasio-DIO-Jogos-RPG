@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Defasio DIO Jogos RPG/1.0.0": {
+        "runtime": {
+          "Defasio DIO Jogos RPG.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Defasio DIO Jogos RPG/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

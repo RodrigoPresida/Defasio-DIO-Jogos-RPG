@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Defasio DIO Jogos RPG")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2543ca4ee72470509c6a6d4ed229fa871eb87d5e")]
 [assembly: System.Reflection.AssemblyProductAttribute("Defasio DIO Jogos RPG")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Defasio DIO Jogos RPG")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

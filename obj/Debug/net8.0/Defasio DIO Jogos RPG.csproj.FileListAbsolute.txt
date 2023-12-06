@@ -1,0 +1,15 @@
+C:\Users\rodri\OneDrive\Documentos\DIO\Defasio DIO Jogos RPG\bin\Debug\net8.0\Defasio DIO Jogos RPG.exe
+C:\Users\rodri\OneDrive\Documentos\DIO\Defasio DIO Jogos RPG\bin\Debug\net8.0\Defasio DIO Jogos RPG.deps.json
+C:\Users\rodri\OneDrive\Documentos\DIO\Defasio DIO Jogos RPG\bin\Debug\net8.0\Defasio DIO Jogos RPG.runtimeconfig.json
+C:\Users\rodri\OneDrive\Documentos\DIO\Defasio DIO Jogos RPG\bin\Debug\net8.0\Defasio DIO Jogos RPG.dll
+C:\Users\rodri\OneDrive\Documentos\DIO\Defasio DIO Jogos RPG\bin\Debug\net8.0\Defasio DIO Jogos RPG.pdb
+C:\Users\rodri\OneDrive\Documentos\DIO\Defasio DIO Jogos RPG\obj\Debug\net8.0\Defasio DIO Jogos RPG.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rodri\OneDrive\Documentos\DIO\Defasio DIO Jogos RPG\obj\Debug\net8.0\Defasio DIO Jogos RPG.AssemblyInfoInputs.cache
+C:\Users\rodri\OneDrive\Documentos\DIO\Defasio DIO Jogos RPG\obj\Debug\net8.0\Defasio DIO Jogos RPG.AssemblyInfo.cs
+C:\Users\rodri\OneDrive\Documentos\DIO\Defasio DIO Jogos RPG\obj\Debug\net8.0\Defasio DIO Jogos RPG.csproj.CoreCompileInputs.cache
+C:\Users\rodri\OneDrive\Documentos\DIO\Defasio DIO Jogos RPG\obj\Debug\net8.0\Defasio DIO Jogos RPG.sourcelink.json
+C:\Users\rodri\OneDrive\Documentos\DIO\Defasio DIO Jogos RPG\obj\Debug\net8.0\Defasio DIO Jogos RPG.dll
+C:\Users\rodri\OneDrive\Documentos\DIO\Defasio DIO Jogos RPG\obj\Debug\net8.0\refint\Defasio DIO Jogos RPG.dll
+C:\Users\rodri\OneDrive\Documentos\DIO\Defasio DIO Jogos RPG\obj\Debug\net8.0\Defasio DIO Jogos RPG.pdb
+C:\Users\rodri\OneDrive\Documentos\DIO\Defasio DIO Jogos RPG\obj\Debug\net8.0\Defasio DIO Jogos RPG.genruntimeconfig.cache
+C:\Users\rodri\OneDrive\Documentos\DIO\Defasio DIO Jogos RPG\obj\Debug\net8.0\ref\Defasio DIO Jogos RPG.dll

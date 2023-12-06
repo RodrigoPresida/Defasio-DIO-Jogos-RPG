@@ -15,15 +15,14 @@ class Personagem
 class Subclasse : Personagem
 {
     public int DanoBase { get; set; }
-
     public Subclasse(string nome, int mana, int danoBase) : base(nome, mana)
     {
         DanoBase = danoBase;
     }
-
-    public int CalcularDano(int quantidadeMana)
+    public void CalcularDano(int quantidadeMana)
     {
-        return DanoBase * quantidadeMana;
+        int danoCausado = DanoBase * quantidadeMana;
+        Console.WriteLine($"{Nome} atacou e causou {danoCausado} de dano!");
     }
 }
 
@@ -31,23 +30,16 @@ class Program
 {
     static void Main()
     {
-
-        string nome = Console.ReadLine();
-
-
-        int mana = int.Parse(Console.ReadLine());
+        string nomePersonagem = Console.ReadLine();
 
 
-        int danoBase = int.Parse(Console.ReadLine());
+        if (int.TryParse(Console.ReadLine(), out int quantidadeMana) && int.TryParse(Console.ReadLine(), out int danoBase))
+        {
+            Subclasse personagemSubClasse = new Subclasse(nomePersonagem, quantidadeMana, danoBase);
 
+            personagemSubClasse.CalcularDano(quantidadeMana);
 
-        Subclasse personagemSubclasse = new Subclasse(nome, mana, danoBase);
+        }
 
-
-        int quantidadeManaAtaque = int.Parse(Console.ReadLine());
-
-
-        int danoCausado = personagemSubclasse.CalcularDano(quantidadeManaAtaque);
-        Console.WriteLine($"{personagemSubclasse.Nome} atacou e causou {danoCausado} de dano!");
     }
 }
